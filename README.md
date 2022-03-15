@@ -1,12 +1,14 @@
 # tfc_api_calls
 
-You will do the following with this github repo
+In this repo you will do the following as an example on how to use API calls with Terraform Cloud
 
 - create a workspace in TFC cloud
 - create a team in TFC cloud
 - associate the team with the workspace
 - remove the team from the workspace
 - remove the workspace
+
+For the official documentation see the following link: [Terraform Cloud API Documentation](https://www.terraform.io/cloud-docs/api-docs)
 
 # Prerequisites
 
