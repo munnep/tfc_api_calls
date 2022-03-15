@@ -1,0 +1,12 @@
+{
+    "data": {
+      "type": "teams",
+      "attributes": {
+        "name": "team-creation-tfc_api_call",
+        "organization-access": {
+          "manage-workspaces": true
+        }
+      }
+    }
+  }
+  
