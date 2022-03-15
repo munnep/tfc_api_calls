@@ -1,0 +1,29 @@
+{
+    "data": {
+      "attributes": {
+        "access": "custom",
+        "runs": "apply",
+        "variables": "none",
+        "state-versions": "read-outputs",
+        "plan-outputs": "none",
+        "sentinel-mocks": "read",
+        "workspace-locking": false
+      },
+      "relationships": {
+        "workspace": {
+          "data": {
+            "type": "workspaces",
+            "id": "ws-9qnQ7otG1n2by7MW"
+          }
+        },
+        "team": {
+          "data": {
+            "type": "teams",
+            "id": "team-E2cR6LyCjjfYW8uU"
+          }
+        }
+      },
+      "type": "team-workspaces"
+    }
+  }
+  
